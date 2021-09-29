@@ -1,0 +1,38 @@
+.navbar-light .navbar-nav .nav-link {
+    color: #6e6e6e;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    transition: all linear 0.3s;
+    -webkit-transition: all linear 0.3s;
+    -moz-transition: all linear 0.3s;
+    -ms-transition: all linear 0.3s;
+    -o-transition: all linear 0.3s;
+    margin: 0 7px;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #f52225;
+}
+.regular-btn {
+    border: 2px solid #6e6e6e;
+    padding: 10px 30px;
+    background: no-repeat;
+    color: #6e6e6e;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    text-transform: capitalize;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    margin-left: 15px;
+    transition: all linear 0.3s;
+    -webkit-transition: all linear 0.3s;
+    -moz-transition: all linear 0.3s;
+    -ms-transition: all linear 0.3s;
+    -o-transition: all linear 0.3s;
+}
+.regular-btn:hover {
+    border-color: #f52225;
+    color: #f52225;
+}
